@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I’m [Gustavo Barez](https://www.linkedin.com/in/gustavobarez/)
 
-<!--
-**gustavobarez/gustavobarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer passionate about building clean and scalable systems.
 
-Here are some ideas to get you started:
+- 📫 You can reach me at: gustavobarez@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarez&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117)
+
+[![Wakatime](https://wakatime.com/badge/user/efc0a4ad-aaa1-4643-97a6-79498a983f25.svg)](https://wakatime.com/@gustavobarez)
+
+---

@@ -1,6 +1,7 @@
 ### Hi there 👋, I’m [Gustavo Barez](https://www.linkedin.com/in/gustavobarez/)
 
-I’m a full-stack developer passionate about building clean and scalable systems.
+I’m a backend developer passionate about building clean and scalable systems.
+I go beyond application code, working with infrastructure, testing and system design.
 
 - 📫 You can reach me at: gustavobarez@gmail.com
 
